@@ -40,4 +40,4 @@ I am a Certified Public Accountant with an interest in data, analytics, and tech
 
 ## Notes
 
-These projects are primarily for learning and practice purposes as part of the Data Analytics Essentials course.
+These projects are primarily for learning and practice purposes as part of the Data Analytics Essentials course. This has just newly started and is an ongoing project until the whole module is done.
