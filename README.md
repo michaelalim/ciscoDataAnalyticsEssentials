@@ -1,43 +1,51 @@
-# Data Analytics Essentials Projects
+# 📊 Data Analytics Essentials — Learning Repository
 
-This repository contains my projects, exercises, and practice work completed while taking the **Data Analytics Essentials** course from Cisco Networking Academy.
+A collection of projects, exercises, and practice work completed as part of the **Data Analytics Essentials** course from **Cisco Networking Academy**.
 
-The goal of this repository is to document my learning process in data analytics, including data exploration, visualization, and basic modeling techniques.
+This repository documents my learning journey in data analytics — from data exploration and cleaning through to visualization and introductory modeling — with a focus on applying these skills in financial and business contexts.
 
-## Contents
+---
 
-The repository may include:
+## 📁 Repository Contents
+
+Each project folder contains its own dataset, notebook, and notes explaining the analysis process. Topics covered include:
 
 - Data exploration and cleaning
 - Basic statistical analysis
 - Data visualization
 - Introductory data modeling
-- Practice datasets and notebooks
 
-Each project folder contains its own dataset, notebook, and notes explaining the analysis process.
+---
 
-## Tools and Technologies
+## 🛠️ Tools and Technologies
 
-Some of the tools used in these projects include:
+| Tool | Purpose |
+|---|---|
+| Python | Core programming language |
+| Pandas | Data manipulation and analysis |
+| NumPy | Numerical computing |
+| Matplotlib / Seaborn | Data visualization |
+| Jupyter Notebook | Interactive development environment |
 
-- Python
-- Pandas
-- NumPy
-- Matplotlib / Seaborn
-- Jupyter Notebook
+---
 
-## Purpose
+## 🎯 Purpose
 
 This repository serves as:
 
 - A record of my learning journey in data analytics
-- A place to practice applying analytical concepts to datasets
-- A portfolio of beginner data analytics projects
+- A practice space for applying analytical concepts to real datasets
+- A growing portfolio of beginner data analytics projects
+- A foundation for integrating data-driven decision making into my accounting and finance work
 
-## About Me
+---
 
-I am a Certified Public Accountant with an interest in data, analytics, and technology. Alongside my work, I am building my skills in data analysis and data-driven decision making.
+## 👤 About Me
 
-## Notes
+I am a **Certified Public Accountant (CPA)** with a strong interest in data, analytics, and technology. Alongside my professional work in accounting and finance, I am building skills in data analysis to strengthen my ability to derive insights from financial data, support business decisions, and bridge the gap between traditional accounting and modern data practices.
 
-These projects are primarily for learning and practice purposes as part of the Data Analytics Essentials course. This has just newly started and is an ongoing project until the whole module is done.
+---
+
+## 📌 Notes
+
+> This repository is actively in progress as I work through the course modules. Projects and notebooks will be added and updated continuously as each section is completed.
